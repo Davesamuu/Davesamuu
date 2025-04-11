@@ -8,15 +8,6 @@
 
 ---
 
-## 💻 Tecnologias & Ferramentas
-
-- 🐍 Python (70%)
-- 📊 R (15%)
-- 🌐 HTML (7.5%)
-- 🎨 CSS (7.5%)
-
----
-
 ## 🚀 Conquistas & Projetos
 
 - 🏆 **Top 10 projetos** da **Imersão Dev com Google Gemini** (Alura - 2024)  
